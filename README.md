@@ -1,5 +1,3 @@
-# Deep_Learning_school
-
 📚Notebooks of Deep Learning school computer vision course 2020
 
 Core notebooks:
